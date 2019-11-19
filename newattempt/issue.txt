@@ -1,0 +1,4 @@
+issuername=>aguy s||issuerid=>IMT2019001||bookname=>real analysis||bookid=>111||issuedate=>2/2/2014||returndate=>0/0/0||fine=>0
+issuername=>bguy s||issuerid=>IMT2019002||bookname=>let us see||bookid=>112||issuedate=>23/2/2014||returndate=>0/0/0||fine=>0
+issuername=>cguy s||issuerid=>IMT2019050||bookname=>real sis||bookid=>114||issuedate=>2/4/2014||returndate=>28/4/2014||fine=>180
+issuername=>sukham||issuerid=>IMT2019085||bookname=>Shaktiman fro india||bookid=>45||issuedate=>1/3/2019||returndate=>24/3/2019||fine=>135
